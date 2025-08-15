@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="becfbb15-2e7c-4b6e-9cb7-b0d009594768" name="Changes" comment="01 curso python completo." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../pythonProject\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CursoPython" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ex106.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jFfvzqXb6ZcJkeAtpPcV1V3X5Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.036.executor": "Run",
+    "Python.Aula23.executor": "Run",
+    "Python.STRINGS.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.aapegar_posicao.executor": "Run",
+    "Python.aaprojeto.executor": "Run",
+    "Python.aua10.executor": "Run",
+    "Python.aua11.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula14.executor": "Run",
+    "Python.aula15.executor": "Run",
+    "Python.aula16.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula18.executor": "Run",
+    "Python.aula19.executor": "Run",
+    "Python.aula20.executor": "Run",
+    "Python.aula21.executor": "Run",
+    "Python.aula22.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex04.executor": "Run",
+    "Python.ex05.executor": "Run",
+    "Python.ex07.executor": "Run",
+    "Python.ex08.executor": "Run",
+    "Python.ex09.executor": "Run",
+    "Python.ex10.executor": "Run",
+    "Python.ex100.executor": "Run",
+    "Python.ex101.executor": "Run",
+    "Python.ex102.executor": "Run",
+    "Python.ex103.executor": "Run",
+    "Python.ex104.executor": "Run",
+    "Python.ex105,5.executor": "Run",
+    "Python.ex105.executor": "Run",
+    "Python.ex106.executor": "Run",
+    "Python.ex107.executor": "Run",
+    "Python.ex108.executor": "Run",
+    "Python.ex11.executor": "Run",
+    "Python.ex110.executor": "Run",
+    "Python.ex111.executor": "Run",
+    "Python.ex112.executor": "Run",
+    "Python.ex113.executor": "Run",
+    "Python.ex114.executor": "Run",
+    "Python.ex12.executor": "Run",
+    "Python.ex13.executor": "Run",
+    "Python.ex21.executor": "Run",
+    "Python.ex23.executor": "Run",
+    "Python.ex24.executor": "Run",
+    "Python.ex25.executor": "Run",
+    "Python.ex30.executor": "Run",
+    "Python.ex31.executor": "Run",
+    "Python.ex32.executor": "Run",
+    "Python.ex33.executor": "Run",
+    "Python.ex34.executor": "Run",
+    "Python.ex35.executor": "Run",
+    "Python.ex37.executor": "Run",
+    "Python.ex38.executor": "Run",
+    "Python.ex39.executor": "Run",
+    "Python.ex40.executor": "Run",
+    "Python.ex41.executor": "Run",
+    "Python.ex42.executor": "Run",
+    "Python.ex43.executor": "Run",
+    "Python.ex44.executor": "Run",
+    "Python.ex45.executor": "Run",
+    "Python.ex46.executor": "Run",
+    "Python.ex47.executor": "Run",
+    "Python.ex48.executor": "Run",
+    "Python.ex49.executor": "Run",
+    "Python.ex50.executor": "Run",
+    "Python.ex51.executor": "Run",
+    "Python.ex52.executor": "Run",
+    "Python.ex53.executor": "Run",
+    "Python.ex54.executor": "Run",
+    "Python.ex55.executor": "Run",
+    "Python.ex56.executor": "Run",
+    "Python.ex57.executor": "Run",
+    "Python.ex58.executor": "Run",
+    "Python.ex59.executor": "Run",
+    "Python.ex60.executor": "Run",
+    "Python.ex61.executor": "Run",
+    "Python.ex62.executor": "Run",
+    "Python.ex63.executor": "Run",
+    "Python.ex64.executor": "Run",
+    "Python.ex65.executor": "Run",
+    "Python.ex66.executor": "Run",
+    "Python.ex67.executor": "Run",
+    "Python.ex68.executor": "Run",
+    "Python.ex69.executor": "Run",
+    "Python.ex70.executor": "Run",
+    "Python.ex71.executor": "Run",
+    "Python.ex72.executor": "Run",
+    "Python.ex73.executor": "Run",
+    "Python.ex74.executor": "Run",
+    "Python.ex75.executor": "Run",
+    "Python.ex76.executor": "Run",
+    "Python.ex77.executor": "Run",
+    "Python.ex78.executor": "Run",
+    "Python.ex79.executor": "Run",
+    "Python.ex80.executor": "Run",
+    "Python.ex81.executor": "Run",
+    "Python.ex82.executor": "Run",
+    "Python.ex83.executor": "Run",
+    "Python.ex84.executor": "Run",
+    "Python.ex85.executor": "Run",
+    "Python.ex86.5.executor": "Run",
+    "Python.ex86.executor": "Run",
+    "Python.ex87.executor": "Run",
+    "Python.ex88,5.executor": "Run",
+    "Python.ex88.executor": "Run",
+    "Python.ex89,5.executor": "Run",
+    "Python.ex89.executor": "Run",
+    "Python.ex90.executor": "Run",
+    "Python.ex91.executor": "Run",
+    "Python.ex92.executor": "Run",
+    "Python.ex93.executor": "Run",
+    "Python.ex94.executor": "Run",
+    "Python.ex95.executor": "Run",
+    "Python.ex96.executor": "Run",
+    "Python.ex97.executor": "Run",
+    "Python.ex98.5.executor": "Run",
+    "Python.ex98.executor": "Run",
+    "Python.ex99.executor": "Run",
+    "Python.sistema.executor": "Run",
+    "Python.testes.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "principal",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Jhowzera/PycharmProjects/CursoemVideo/pythonProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jhowzera\PycharmProjects\CursoemVideo\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jhowzera\PycharmProjects\CursoemVideo\pythonProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a679fa0fb229-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.194" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="becfbb15-2e7c-4b6e-9cb7-b0d009594768" name="Changes" comment="" />
+      <created>1720987980494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720987980494</updated>
+    </task>
+    <task id="LOCAL-00001" summary="01 curso python completo.">
+      <option name="closed" value="true" />
+      <created>1755193248544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755193248544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="01 curso python completo.">
+      <option name="closed" value="true" />
+      <created>1755193796814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755193796814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01 curso python completo." />
+    <option name="LAST_COMMIT_MESSAGE" value="01 curso python completo." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../CursoPython/ex53.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../CursoPython/aula16.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

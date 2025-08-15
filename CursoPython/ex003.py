@@ -1,0 +1,6 @@
+N = input('digite qual quer coisa: ')
+print(N.isalnum())
+print(N.isalpha())
+print(N.isascii())
+print(N.isupper())
+print(N.islower())

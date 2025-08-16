@@ -1,0 +1,14 @@
+ativar o ambiente virtual
+ ll_env/Scrits/activate (ligar)
+    deactivate (Desligar)
+
+comandos para usar no terminal:
+ python manage.py shell
+ from learning_logs.models import Topic
+>>> Topic.objects.all()
+topics = Topic.objects.all()
+>>> for topic in topics:
+...     print(topic.id, topic)
+t = Topic.objects.get(id=3)
+t.text
+
